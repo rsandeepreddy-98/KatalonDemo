@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This testcase checks the functionality of frames in selenium</description>
+   <name>Frames</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76a84c8a-e80d-4b8a-a239-f352bac37af1</testCaseGuid>
+</TestCaseEntity>

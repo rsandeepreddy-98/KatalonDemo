@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TestSuite1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>8ece33e7-ba2d-44c7-b347-a9a0163f7cd2</testSuiteGuid>
+   <testCaseLink>
+      <guid>9c289996-10fb-4f0a-965a-94b43497f185</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DataProvider_Demoguru_Application/Login_DemoGuru</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>bb83323b-d3cc-42af-a938-4fee93690f2c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/demo_data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>bb83323b-d3cc-42af-a938-4fee93690f2c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>userName</value>
+         <variableId>5033e461-1839-4b98-b111-1071e63342c6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bb83323b-d3cc-42af-a938-4fee93690f2c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>6d1e4dd3-237d-43b9-9f10-0d5d7a98079e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

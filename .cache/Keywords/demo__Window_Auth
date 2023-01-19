@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "7CB8AB86263A30C8DCCA642DDCEAEF8F",
+  "keywordClasses": [
+    {
+      "name": "demo.Window_Auth_popUp",
+      "keywordMethods": [
+        {
+          "name": "AuthLogin",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
